@@ -1,10 +1,15 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 𝙰𝚕𝚒𝚌𝚒𝚊</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 Witaj przybyszu! Jestem ksky</h1>
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:alicia@omg.lol" title="Email Address"><code>alicia at omg dot lol</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>@lissy93:matrix.org</code></a>
+   <p>Czego używam?</p>
+   <a href="https://nextjs.org/" target="_blank" title="NextJS - kliknij, aby przejść na tą stronę"><code>NextJS</code></a> │ 
+   <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS - kliknij, aby przejść na tą stronę"><code>TailwindCSS</code></a> │ 
+   <a href="https://www.jetbrains.com/" target="_blank" title="JetBrains - kliknij, aby przejść na tą stronę"><code>JetBrains</code></a> │ 
+   <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL - kliknij, aby przejść na tą stronę"><code>PostgreSQL</code></a>
 </p>
+
 
 <!-- Socials -->
 <p align="center">
