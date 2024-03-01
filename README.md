@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-   <p>Czego używam?</p>
+   Czego używam? <br />
    <a href="https://nextjs.org/" target="_blank" title="NextJS - kliknij, aby przejść na tą stronę"><code>NextJS</code></a> │ 
    <a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS - kliknij, aby przejść na tą stronę"><code>TailwindCSS</code></a> │ 
    <a href="https://www.jetbrains.com/" target="_blank" title="JetBrains - kliknij, aby przejść na tą stronę"><code>JetBrains</code></a> │ 
