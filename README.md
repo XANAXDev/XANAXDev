@@ -24,7 +24,7 @@
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/ksky76" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/ksky76" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/ksky76/ksky76/master/assets/github-snake.svg" /></a>
 </p>
 
 </details>
