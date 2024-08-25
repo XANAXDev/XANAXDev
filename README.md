@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm xanax</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksky76&label=Profile%20views&color=0e75b6&style=flat" alt="ksky76" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksky76" alt="ksky76" /></a> </p>
-
 - 🔭 I’m currently working on **RolePlay Server**
 
 - 🌱 I’m currently learning **Nest.JS, ReactJS, NextJS, TypeScript**
@@ -39,9 +35,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nextcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nextcode" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksky76&show_icons=true&locale=en&layout=compact" alt="ksky76" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksky76&show_icons=true&locale=en" alt="ksky76" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksky76&" alt="ksky76" /></p>
