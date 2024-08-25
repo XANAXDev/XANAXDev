@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xanax</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-<p align="center">
+<p align="left">
 - 🔭 I’m currently working on **RolePlay Server**<br>
 - 🌱 I’m currently learning **Nest.JS, ReactJS, NextJS, TypeScript**<br>
 - 👯 I’m looking to collaborate on **Creating Internet applications / Company management systems**<br>
