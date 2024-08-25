@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 Siemaneczko!</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">Welcom in my GitHub 🙋‍♂️</h1>
 
 <!-- Contact and keys -->
 <p align="center">
