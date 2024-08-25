@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm xanax</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-<p align="left">
-- 🔭 I’m currently working on **RolePlay Server**<br>
-- 🌱 I’m currently learning **Nest.JS, ReactJS, NextJS, TypeScript**<br>
-- 👯 I’m looking to collaborate on **Creating Internet applications / Company management systems**<br>
-- 🤝 I'm can help u with **JavaScript Projects**<br>
-- 👨‍💻 All of my projects are available at <a href="https://vuxe.pl">https://vuxe.pl</a><br>
-- 📝 I regularly write articles on <a href="soon">soon</a><br>
-- 💬 Ask me about **react, vue, nextjs, ecmascript 6**<br>
-- 📫 How to reach me **kacper.placzek@vuxe.pl**<br>
-- 📄 Know about my experiences <a href="soon">soon</a><br>
-- ⚡ Fun fact **I think I am funny... 🥳**<br>
+<p align="center">
+🔭 I’m currently working on **RolePlay Server**<br>
+🌱 I’m currently learning **Nest.JS, ReactJS, NextJS, TypeScript**<br>
+👯 I’m looking to collaborate on **Creating Internet applications / Company management systems**<br>
+🤝 I'm can help u with **JavaScript Projects**<br>
+👨‍💻 All of my projects are available at <a href="https://vuxe.pl">https://vuxe.pl</a><br>
+📝 I regularly write articles on <a href="soon">soon</a><br>
+💬 Ask me about **react, vue, nextjs, ecmascript 6**<br>
+📫 How to reach me **kacper.placzek@vuxe.pl**<br>
+📄 Know about my experiences <a href="soon">soon</a><br>
+⚡ Fun fact **I think I am funny... 🥳**<br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
