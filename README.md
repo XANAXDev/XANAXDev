@@ -21,9 +21,9 @@
   <br><br>
 
   <!-- Heading -->
-  <h1>Hey there 👋</h1>
+  <h1>Welcome in my Github👋</h1>
 
-  <br>
+  <br><br>
 
   <!-- About Me -->
   <h3>👩‍💻 About Me</h3>
