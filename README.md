@@ -23,8 +23,6 @@
   <!-- Heading -->
   <h1>Welcome in my Github👋</h1>
 
-  <br><br>
-
   <!-- About Me -->
   <h3>👩‍💻 About Me</h3>
   <p align="center">
