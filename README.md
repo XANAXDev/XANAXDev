@@ -13,19 +13,15 @@
 
   <br>
 
+  
+
   <!-- Visitor Badge -->
   <div>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=xanaxdev.xanaxdev" alt="Visitor Badge" />
   </div>
-
-  <br><br>
-
-  <!-- Heading -->
-  <h1>Welcome in my Github👋</h1>
-
-  <br><br>
-
-  <!-- Languages and Tools -->
+  
+ <br><br>
+    <!-- Languages and Tools -->
   <h3>🛠 Languages and Tools</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" height="40" alt="NodeJS" />
@@ -40,3 +36,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   </div>
 </div>
+
+  <br><br>
+
+  <!-- Heading -->
+  <h1>Have a nice day👋</h1>
+
+  <br><br>
+
+
