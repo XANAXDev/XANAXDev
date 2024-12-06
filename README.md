@@ -40,7 +40,7 @@
   <br><br>
 
   <!-- Heading -->
-  <h1 align="center">Have a nice day👋</h1>
+  <p align="center" size="20px">Have a nice day👋</p>
 
   <br><br>
 
