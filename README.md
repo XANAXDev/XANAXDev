@@ -23,15 +23,6 @@
   <!-- Heading -->
   <h1>Welcome in my Github👋</h1>
 
-  <!-- About Me -->
-  <h3>👩‍💻 About Me</h3>
-  <p align="center">
-    My name is Kacper and I live in Poland.<br><br>
-    🔭 I’m working as a Fullstack Developer<br>
-    📚 I'm currently learning NodeJS and CRONE<br>
-    ⚡ In my free time, I play Valorant
-  </p>
-
   <br><br>
 
   <!-- Languages and Tools -->
