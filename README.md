@@ -50,12 +50,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   </div>
-
-  <br><br>
-
-  <!-- Stats -->
-  <h3>🔥 My Stats</h3>
-  <div>
-    <img src="https://streak-stats.demolab.com?user=xanaxdev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="Streak Graph" />
-  </div>
 </div>
