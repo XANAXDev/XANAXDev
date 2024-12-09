@@ -22,7 +22,7 @@
   
  <br><br>
     <!-- Languages and Tools -->
-  <h3>🛠 Languages and Tools</h3>
+  <h3>🛠 TechStack</h3>
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" height="40" alt="NodeJS" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" alt="TypeScript" />
